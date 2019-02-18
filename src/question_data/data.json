@@ -1,0 +1,190 @@
+[
+	{
+		"options": ["Excel", "Microsoft", "Whatsapp"],
+		"answer": "Facebook"
+	},
+	{
+		"options": ["Cloth", "Wash", "Body"],
+		"answer": "Bath"
+	},
+	{
+		"options": ["Earth Day", "April Twenty Second", "Fool's Day"],
+		"answer": "April First"
+	},
+	{
+		"options": ["Sachin Tendulker", "Bat", "Shane Warne"],
+		"answer": "Ball"
+	},
+	{
+		"options": ["Rice ", "Carbohydrate", "Egg"],
+		"answer": "Protein"
+	},
+	{
+		"options": ["Bulb", "Light", "Fan"],
+		"answer": "Wind"
+	},
+	{
+		"options": ["White", "Black", "Light"],
+		"answer": "Dark"
+	},
+	{
+		"options": ["Eyes", "Tears", "Volcano"],
+		"answer": "Lava"
+	},
+	{
+		"options": ["Melt", "Liquid", "Freeze"],
+		"answer": "Solid"
+	},
+	{
+		"options": ["Two wheeler", "Helmet", "Car"],
+		"answer": "Seat Belt"
+	},
+	{
+		"options": ["Horse", "Stable", "Cow"],
+		"answer": "Shed"
+	},
+	{
+		"options": ["Sugarcane", "Juice", "Mustard"],
+		"answer": "Oil"
+	},
+	{
+		"options": ["Bouquet", "Flowers", "Sentence"],
+		"answer": "Words"
+	},
+	{
+		"options": ["Daniel Craig", "James Bond", "Tom Holland"],
+		"answer": "spiderman"
+	},
+	{
+		"options": ["Australian Open", "January", "Wimbledon"],
+		"answer": "July"
+	},
+	{
+		"options": ["Rafael Nadal", "France", "Roger Federer"],
+		"answer": "Switzerland"
+	},
+	{
+		"options": ["US Open", "Tennis", "Ashes"],
+		"answer": "Cricket"
+	},
+	{
+		"options": ["Lionel Messi", "Football", "Don Bradman"],
+		"answer": "Cricket"
+	},
+	{
+		"options": ["The Conjuring", "Horror", "The Hangover"],
+		"answer": "Humour"
+	},
+	{
+		"options": ["Interstellar", "Nolan", "Jurassic Park"],
+		"answer": "Spielberg"
+	},
+	{
+		"options": ["Australian Open", "Hard Court", "Wimbledon"],
+		"answer": "Grass Court"
+	},
+	{
+		"options": ["Birth", "Death", "Marriage"],
+		"answer": "Divorce"
+	},
+	{
+		"options": ["Vehicle", "Oil", "Animals"],
+		"answer": "Food"
+	},
+	{
+		"options": ["Lionel Messi", "Argentina", "Cristiano Ronaldo"],
+		"answer": "Portuguese"
+	},
+	{
+		"options": ["Children", "School", "Youth"],
+		"answer": "College"
+	},
+	{
+		"options": ["Bed", "Sleep", "Chair"],
+		"answer": "Sit"
+	},
+	{
+		"options": ["Magnus Carlsen", "Norwegian", "Serena Williams"],
+		"answer": "American"
+	},
+	{
+		"options": ["Telephone", "Ring", "Door"],
+		"answer": "Knock"
+	},
+	{
+		"options": ["Bank", "River", "Coast"],
+		"answer": "Sea"
+	},
+	{
+		"options": ["Melody", "Voice", "Delicious"],
+		"answer": "Taste"
+	},
+	{
+		"options": ["Football", "FIFA", "Cricket"],
+		"answer": "ICC"
+	},
+	{
+		"options": ["Foul", "Football", "Volley"],
+		"answer": "Tennis"
+	},
+	{
+		"options": ["Football", "Referee", "Cricket"],
+		"answer": "Umpire"
+	},
+	{
+		"options": ["Driving", "Car", "Flying"],
+		"answer": "Aeroplane"
+	},
+	{
+		"options": ["David Beckham", "England", "Neymar"],
+		"answer": "Brazil"
+	},
+	{
+		"options": ["French Open", "Clay Court", "US Open"],
+		"answer": "Hard Court"
+	},
+	{
+		"options": ["FIFA World Cup 2018", "Russia", "FIFA World Cup 2014"],
+		"answer": "Brazil"
+	},
+	{
+		"options": ["David Beckham", "England", "Neymar"],
+		"answer": "Brazil"
+	},
+	{
+		"options": ["Hockey", "Rectangle", "Cricket"],
+		"answer": "Circle"
+	},
+	{
+		"options": ["Baseball", "Nine Players", "Basketball"],
+		"answer": "Five Players"
+	},
+	{
+		"options": ["Bill Clinton", "George W. Bush", "Barack Obama"],
+		"answer": "Donald Trump"
+	},
+	{
+		"options": ["Ocean", "Pacific", "Mountain"],
+		"answer": "Everest"
+	},
+	{
+		"options": ["Big Ben", "London", "Eiffel Tower"],
+		"answer": "Paris"
+	},
+	{
+		"options": ["Pen", "Write", "Sword"],
+		"answer": "Fight"
+	},
+	{
+		"options": ["Baseball", "Pitcher", "Cricket"],
+		"answer": "Bowler"
+	},
+	{
+		"options": ["Mercury", "Venus", "Earth"],
+		"answer": "Mars"
+	},
+	{
+		"options": ["Donald Trump", "USA", "Emmanuel Macron"],
+		"answer": "France"
+	}
+]

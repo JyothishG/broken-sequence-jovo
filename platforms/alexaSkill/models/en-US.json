@@ -1,0 +1,170 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "my test app",
+			"types": [
+				{
+					"name": "ANSWER",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "I don't know"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "don't know"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Moon"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "FIFA"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Green"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Vienna"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Patient"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Press"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Facebook"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Bath"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "April First",
+								"synonyms": [
+									"1st of April",
+									"April 1st",
+									"April 1",
+									"April one"
+								]
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Ball"
+							}
+						},
+						{
+							"id": null,
+							"name": {
+								"value": "Protein"
+							}
+						}
+					]
+				}
+			],
+			"intents": [
+				{
+					"name": "AskIntent",
+					"samples": [
+						"yes",
+						"start",
+						"sure",
+						"start playing",
+						"Play the Game",
+						"start the game"
+					]
+				},
+				{
+					"name": "UserScore",
+					"samples": [
+						"what is my score",
+						"my score",
+						"how many coins do I have now",
+						"my total score",
+						"my total coins",
+						"my coins"
+					]
+				},
+				{
+					"name": "StopIntent",
+					"samples": [
+						"no",
+						"nope",
+						"stop"
+					]
+				},
+				{
+					"name": "HelpIntent",
+					"samples": [
+						"help",
+						"help me"
+					]
+				},
+				{
+					"name": "AnswerIntent",
+					"samples": [
+						"{Answer}",
+						"the answer is {Answer}",
+						"my answer is {Answer}",
+						"answer is {Answer}",
+						"select {Answer}",
+						"lock on {Answer}",
+						"that was {Answer}",
+						"it is {Answer}",
+						"is it {Answer}",
+						"I think it is {Answer}"
+					],
+					"slots": [
+						{
+							"name": "Answer",
+							"type": "ANSWER"
+						}
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}

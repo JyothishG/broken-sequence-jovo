@@ -1,0 +1,32 @@
+{
+    "bodyTemplate1Data": {
+        "type": "object",
+        "backgroundImage": {
+            "sources": [
+                {
+                    "url": "https://s3.amazonaws.com/broken-sequence-skill/276773-P5-OK1-X-262-min.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://s3.amazonaws.com/broken-sequence-skill/276773-P5-OK1-X-262-min.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Hello there...",
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Welcome to Broken Sequence Game."
+            },
+            "secondaryText": {
+                "type": "PlainText",
+                "text": "Start the Game"
+            }
+        }
+    }
+}

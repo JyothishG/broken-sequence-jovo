@@ -1,0 +1,84 @@
+[
+	{
+		"value": "I don't know",
+		"synonyms": [
+			"I dont know"
+		]
+	},
+	{
+		"value": "don't know",
+		"synonyms": [
+			"dont know"
+		]
+	},
+	{
+		"value": "Moon",
+		"synonyms": [
+			"Moon"
+		]
+	},
+	{
+		"value": "FIFA",
+		"synonyms": [
+			"FIFA"
+		]
+	},
+	{
+		"value": "Green",
+		"synonyms": [
+			"Green"
+		]
+	},
+	{
+		"value": "Vienna",
+		"synonyms": [
+			"Vienna"
+		]
+	},
+	{
+		"value": "Patient",
+		"synonyms": [
+			"Patient"
+		]
+	},
+	{
+		"value": "Press",
+		"synonyms": [
+			"Press"
+		]
+	},
+	{
+		"value": "Facebook",
+		"synonyms": [
+			"Facebook"
+		]
+	},
+	{
+		"value": "Bath",
+		"synonyms": [
+			"Bath"
+		]
+	},
+	{
+		"value": "April First",
+		"synonyms": [
+			"April First",
+			"1st of April",
+			"April 1st",
+			"April 1",
+			"April one"
+		]
+	},
+	{
+		"value": "Ball",
+		"synonyms": [
+			"Ball"
+		]
+	},
+	{
+		"value": "Protein",
+		"synonyms": [
+			"Protein"
+		]
+	}
+]

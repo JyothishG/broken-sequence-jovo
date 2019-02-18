@@ -1,0 +1,158 @@
+[
+	{
+		"data": [
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "the answer is ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "my answer is ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "answer is ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "select ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "lock on ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "that was ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "it is ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "is it ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I think it is ",
+				"userDefined": false
+			},
+			{
+				"text": "Answer",
+				"userDefined": true,
+				"alias": "Answer",
+				"meta": "@ANSWER"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

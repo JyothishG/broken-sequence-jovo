@@ -1,0 +1,155 @@
+{
+	"invocation": "my test app",
+	"intents": [
+		{
+			"name": "AskIntent",
+			"phrases": [
+        "yes",
+        "start",
+        "sure",
+        "start playing",
+        "Play the Game",
+        "start the game"
+			]
+		},
+		{
+			"name": "UserScore",
+			"phrases": [
+        "what is my score",
+        "my score",
+        "how many coins do I have now",
+        "my total score",
+        "my total coins",
+        "my coins"
+			]
+		},
+		{
+			"name": "StopIntent",
+			"phrases": [
+        "no",
+        "nope",
+        "stop"
+			]
+		},
+		{
+			"name": "HelpIntent",
+			"phrases": [
+        "help",
+        "help me"
+			]
+		},
+		{
+			"name": "AnswerIntent",
+			"phrases": [
+        "{Answer}",
+        "the answer is {Answer}",
+        "my answer is {Answer}",
+        "answer is {Answer}",
+        "select {Answer}",
+        "lock on {Answer}",
+        "that was {Answer}",
+        "it is {Answer}",
+        "is it {Answer}",
+        "I think it is {Answer}"
+			],
+			"inputs": [
+				{
+					"name": "Answer",
+					"type": "ANSWER"
+				}
+			]
+		}
+	],
+	"inputTypes": [
+		{
+			"name": "ANSWER",
+			"values": [
+				{
+					"value": "I don't know"
+				},
+				{
+					"value": "don't know"
+				},
+				{
+					"value": "Moon"
+				},
+				{
+					"value": "FIFA"
+				},
+				{
+					"value": "Green"
+				},
+				{
+					"value": "Vienna"
+				},
+				{
+					"value": "Patient"
+				},
+				{
+					"value": "Press"
+				},
+				{
+					"value": "Facebook"
+				},
+				{
+					"value": "Bath"
+				},
+				{
+          "value": "April First",
+          "synonyms": [
+            "1st of April",
+            "April 1st",
+            "April 1",
+            "April one"
+          ]
+				},
+				{
+					"value": "Ball"
+				},
+				{
+					"value": "Protein"
+				}
+			]
+		}
+	],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	},
+	"dialogflow": {
+		"intents": [
+			{
+				"name": "Default Fallback Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"fallbackIntent": true
+			},
+			{
+				"name": "Default Welcome Intent",
+				"auto": true,
+				"webhookUsed": true,
+				"events": [
+					{
+						"name": "WELCOME"
+					}
+				]
+			}
+		]
+	}
+}
