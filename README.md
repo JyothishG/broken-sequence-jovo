@@ -1,7 +1,7 @@
 [![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
 
 <p align="center">
-<a href="https://www.jovo.tech/framework/docs/"><strong>Blog Post</strong></a></p>
+<a href="https://www.jovo.tech/framework/docs/"><strong>Read Blog Post</strong></a></p>
 <br/>
 
 # Broken Sequence
