@@ -14,4 +14,3 @@ $ jovo new broken-sequence
 ## Alternative
 $ jovo new broken-sequence --template helloworld
 ```
-
