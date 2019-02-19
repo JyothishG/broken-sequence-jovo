@@ -1,4 +1,4 @@
-[![Jovo Framework](https://www.cedextech.com/storage/blog/thumb/n7LWdJFrIfsjFjb34CPZNtmmEiioERzvhEmD50SE.png)](https://www.cedextech.com/blog/jovo-voice-apps)
+[![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.cedextech.com/blog/jovo-voice-apps)
 
 <p align="center">
 <a href="https://www.cedextech.com/blog/jovo-voice-apps"><strong>Read Blog Post</strong></a></p>
