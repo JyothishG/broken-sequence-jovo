@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://www.cedextech.com/blog/jovo-voice-apps"><strong>Read Blog Post</strong></a></p>
 <br/>
+<p align="center">
 <a href="https://www.amazon.co.uk/dp/B07MJPW1WK"><strong>Try the Skill</strong></a></p>
 <br/>
 
