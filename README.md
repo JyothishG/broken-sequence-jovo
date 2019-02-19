@@ -10,10 +10,3 @@
 # Broken Sequence
 
 Cross platform voice app built with Jovo, that will ask users an incomplete sequence of words and ask the user to find the last word.
-
-```sh
-$ jovo new broken-sequence
-
-## Alternative
-$ jovo new broken-sequence --template helloworld
-```
